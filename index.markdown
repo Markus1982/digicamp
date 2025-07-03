@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 2D Tutorial
-Diese Wochen werden wir ein 2D Spiel mit der Gaming Engine Godot entickeln.
+Diese Wochen werden wir ein 2D Spiel mit der Gaming Engine Godot entwickeln.
 
 
 ![Branching](https://docs.godotengine.org/en/stable/_images/dodge_preview.gif)
@@ -44,7 +44,7 @@ Damit jeder Teilnehmer am Ende des Kurses ein lauffähiges Spiel zur Verfügung 
 
 ### Endergebnis
 
-Hier noch der Original Source Code auf github:
+Hier noch der Original Source Code auf GitHub:
 
 * [Fertiges 2D Spiel](https://github.com/godotengine/godot-demo-projects/tree/master/2d/dodge_the_creeps)
 

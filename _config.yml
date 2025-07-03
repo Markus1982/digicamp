@@ -21,7 +21,7 @@
 title: Erstelle dein erstes Spiel
 email: m.szoeky@countit.at
 description: >- # this means to ignore newlines until "baseurl:"
-  Dieses Wiki ist für einen Kurzs beim DigiCamp.
+  Dieses Wiki ist für einen Kurs beim DigiCamp.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dd.countit.at" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  markus1982
