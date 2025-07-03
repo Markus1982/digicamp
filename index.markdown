@@ -27,13 +27,13 @@ Damit jeder Teilnehmer am Ende des Kurses ein lauffähiges Spiel zur Verfügung 
 
 | Schritt | Name des Schrittes | Download Link |
 |:--------|:-------------------|:--------------|
-| 1 | Einrichten des Projektes| [Ergebnis Schritt 1](./digicamp/downloads/schritt-1.zip) |
-| 2 | Die Spieler-Szene erstellen | [Ergebnis Schritt 2](./digicamp/downloads/schritt-2.zip) |
-| 3 | Den Spieler programmieren | [Ergebnis Schritt 3](./digicamp/downloads/schritt-3.zip) |
-| 4 | Die Gegner erschaffen | [Ergebnis Schritt 4](./digicamp/downloads/schritt-4.zip) |
-| 5 | Die Hauptszene des Spiels| [Ergebnis Schritt 5](./digicamp/downloads/schritt-5.zip) |
-| 6 | Head-up-Display | [Ergebnis Schritt 6](./digicamp/downloads/schritt-6.zip) |
-| 7 | Fertigstellung | [Ergebnis Schritt 7](./digicamp/downloads/schritt-7.zip) |
+| 1 | Einrichten des Projektes| [Ergebnis Schritt 1](https://markus1982.github.io/digicamp/downloads/schritt-1.zip) |
+| 2 | Die Spieler-Szene erstellen | [Ergebnis Schritt 2](https://markus1982.github.io/digicamp/downloads/schritt-2.zip) |
+| 3 | Den Spieler programmieren | [Ergebnis Schritt 3](https://markus1982.github.io/digicamp/downloads/schritt-3.zip) |
+| 4 | Die Gegner erschaffen | [Ergebnis Schritt 4](https://markus1982.github.io/digicamp/downloads/schritt-4.zip) |
+| 5 | Die Hauptszene des Spiels| [Ergebnis Schritt 5](https://markus1982.github.io/digicamp/downloads/schritt-5.zip) |
+| 6 | Head-up-Display | [Ergebnis Schritt 6](https://markus1982.github.io/digicamp/downloads/schritt-6.zip) |
+| 7 | Fertigstellung | [Ergebnis Schritt 7](https://markus1982.github.io/digicamp/downloads/schritt-7.zip) |
 
 ### Endergebnis
 
