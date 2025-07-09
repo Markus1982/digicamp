@@ -13,3 +13,20 @@ header { border-bottom: 1px dashed #cfe219; }
 th { border-bottom: 1px dashed #cfe219; }
 a { color: #cfe219; }
 hr {border-bottom: 1px dashed #cfe219; }
+
+header h1 { margin: 0 !important;}
+
+@media(min-width: 768px) {
+    header .header-row {
+        display: flex;
+        flex-direction: row-reverse;
+        align-items: center;
+        justify-content: start;
+    }
+
+    header .header-row div:first-child {
+        padding-left: 40px;
+    }
+}
+
+footer { background: rgba(0, 0, 0, 0.1); width: 100%; border-top: 1px dashed #b5e853; padding: 20px 0; margin: 40px 0 0 0; }

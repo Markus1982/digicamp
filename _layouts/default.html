@@ -14,19 +14,24 @@
 
     <header>
       <div class="container">
-        <a id="a-title" href="{{ '/' | relative_url }}">
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
-        </a>
-        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
-
+		  <div class="header-row">
+			<div>
+			  <a title="" href="https://dd.countit.at/?kaid=markus1982">
+				<img title="" alt="DD Logo" height="70" src="/digicamp/assets/images/DDLogo_negativ.png">
+			  </a>
+			</div>
+			<div>
+			<a id="a-title" href="{{ '/' | relative_url }}">
+			  <h1>{{ site.title | default: site.github.repository_name }}</h1>
+			</a>
+			<h2>{{ site.description | default: site.github.project_tagline }}</h2>
+			</div>
+		</div>
         <section id="downloads">
           {% if site.show_downloads %}
             <a href="{{ site.github.zip_url }}" class="btn">Download as .zip</a>
           {% endif %}
           <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
-		  <a title="" href="https://dd.countit.at/?kaid=markus1982">
-			<img title="" alt="DD Logo" height=50 src="/digicamp/assets/images/DDLogo_negativ.png"></img>
-		  </a>
         </section>
 		
       </div>
@@ -37,5 +42,12 @@
         {{ content }}
       </section>
     </div>
+	<footer>
+    <div class="container">
+      <a href="https://www.countit.at?kaid=markus1982">
+        <p><span>Powered by</span>&nbsp;<img height="50" src="/digicamp/assets/images/CITLogo_neg.png" alt="CIT Logo"></p>
+      </a>
+    </div>
+  </footer>
   </body>
 </html>
