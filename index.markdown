@@ -78,6 +78,6 @@ Damit jeder Teilnehmer am Ende des Kurses ein lauffähiges Spiel zur Verfügung 
 
 Hier noch der Original Source Code auf GitHub:
 
-* [Fertiges 2D Spiel](https://github.com/godotengine/godot-demo-projects/tree/master/2d/dodge_the_creeps)
+* [Fertiges 2D Spiel](https://github.com/godotengine/godot-demo-projects/tree/master/2d/dodge_the_creeps){:target="_blank"}
 
 
