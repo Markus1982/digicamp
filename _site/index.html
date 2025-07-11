@@ -4,7 +4,7 @@
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="/digicamp/assets/css/style.css?v=9f866834cfa458491c0a1db424bed52005fdb64a">
+    <link rel="stylesheet" href="/digicamp/assets/css/style.css?v=836c95bbc9c7a66fa6cce10f2717c8b7df674baf">
     <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
 <!-- Setup theme-color -->
@@ -90,6 +90,39 @@
 <ul>
   <li><a href="https://godotengine.org/asset-library/asset/2712" target="_blank">Asset Bibliothek</a></li>
 </ul>
+
+<h3 id="winmerge-einstellungen">WinMerge Einstellungen</h3>
+
+<p>Um die Ergebnisse nachher besser vergleichen zu können sind folgende Einstellungen notwendig:</p>
+
+<p>Unter “Bearbeiten/Einstellungen” oder “Edit/Options” im Baum die Einstellungen zum Vergleichen suchen:</p>
+
+<p>“Vergleichen/Allgemein” oder “Compare/Generel”</p>
+
+<p>Dort sind folgende Einstellungen zu setzen:</p>
+<ul>
+  <li>Leerzeichen -&gt; Alle ignorieren oder Whitespaces -&gt; Ignore all</li>
+  <li>Leerzeilen ignorieren oder Ignore blank lines</li>
+  <li>Ingore EOL differeneces</li>
+</ul>
+
+<p>Unter Tools/Filter(s) lege bitte einen neuen Filter names Godot an. Danach öffnet sich die Konfiguration für diesen Filter.</p>
+
+<p>Bitte ändere folgenden Konfiguration</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>f: \.ext$ ## Filter for filename
+
+d: \\subdir$ ## Filter for directory
+</code></pre></div></div>
+
+<p>wie folgt ab:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>f: \.import$ ## Filter for filename
+
+d: \\.godot$ ## Filter for directory
+</code></pre></div></div>
+
+<p>Und speichere die Datei.</p>
 
 <h2 id="tutorial">Tutorial</h2>
 

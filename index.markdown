@@ -17,9 +17,41 @@ Bitte installiere folgende Tools:
 * [Godot Engine](https://godotengine.org/download/windows/){:target="_blank"}
 * [WinMerge](https://winmerge.org/downloads/?lang=de){:target="_blank"}
 
-
 Bitte lade die Assets herunter:
 * [Asset Bibliothek](https://godotengine.org/asset-library/asset/2712){:target="_blank"}
+
+### WinMerge Einstellungen
+
+Um die Ergebnisse nachher besser vergleichen zu können sind folgende Einstellungen notwendig:
+
+Unter "Bearbeiten/Einstellungen" oder "Edit/Options" im Baum die Einstellungen zum Vergleichen suchen: 
+
+"Vergleichen/Allgemein" oder "Compare/Generel" 
+
+Dort sind folgende Einstellungen zu setzen:
+* Leerzeichen -> Alle ignorieren oder Whitespaces -> Ignore all
+* Leerzeilen ignorieren oder Ignore blank lines
+* Ingore EOL differeneces
+
+Unter Tools/Filter(s) lege bitte einen neuen Filter names Godot an. Danach öffnet sich die Konfiguration für diesen Filter.
+
+Bitte ändere folgenden Konfiguration
+
+```
+f: \.ext$ ## Filter for filename
+
+d: \\subdir$ ## Filter for directory
+```
+
+wie folgt ab:
+
+```
+f: \.import$ ## Filter for filename
+
+d: \\.godot$ ## Filter for directory
+```
+
+Und speichere die Datei.
 
 ## Tutorial
 
