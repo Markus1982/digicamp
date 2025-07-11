@@ -9,22 +9,22 @@ Diese Wochen werden wir ein 2D Spiel mit der Gaming Engine Godot entwickeln.
 ![Branching](https://docs.godotengine.org/en/stable/_images/dodge_preview.gif)
 
 
-[Teste das Eregebnis](https://html-classic.itch.zone/html/5531876/HTML/index.html)
+[Teste das Eregebnis](https://html-classic.itch.zone/html/5531876/HTML/index.html){:target="_blank"}
 
 ## Vorbereitung
 
 Bitte installiere folgende Tools:
-* [Godot Engine](https://godotengine.org/download/windows/)
-* [WinMerge](https://winmerge.org/downloads/?lang=de)
+* [Godot Engine](https://godotengine.org/download/windows/){:target="_blank"}
+* [WinMerge](https://winmerge.org/downloads/?lang=de){:target="_blank"}
 
 
 Bitte lade die Assets herunter:
-* [Asset Bibliothek](https://godotengine.org/asset-library/asset/2712)
+* [Asset Bibliothek](https://godotengine.org/asset-library/asset/2712){:target="_blank"}
 
 ## Tutorial
 
 Im Rahmen dieses Kurses werden wir folgendes Tutorial verwenden:
-* [Tutorial 2D Spiel](https://docs.godotengine.org/de/4.x/getting_started/first_2d_game/index.html)
+* [Tutorial 2D Spiel](https://docs.godotengine.org/de/4.x/getting_started/first_2d_game/index.html){:target="_blank"}
 
 ## Ergebnisse
 
