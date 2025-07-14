@@ -84,9 +84,9 @@ Hier noch der Original Source Code auf GitHub:
 
 Teste wieder zu Beginn das Ergebnis:
 
-[Spiel mit Hinderniss](https://markus1982.github.io/digicamp/wall){:target="_blank"}
+[Spiel mit Hindernis](https://markus1982.github.io/digicamp/wall){:target="_blank"}
 
-Um die Wand zu ergänzen gibt es folgende Hilfestellungen:
+Um die Wand zu ergänzen, gibt es folgende Hilfestellungen:
 * [Wandbilder](https://de.freepik.com/vektoren-kostenlos/sammlung-von-sechzehn-nahtlose-vektor-pixel-bodentexturen_959312.htm){:target="_blank"}
 
 Die Hauptfunktion für den Player:
