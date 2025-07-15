@@ -9,7 +9,7 @@ Diese Wochen werden wir ein 2D Spiel mit der Gaming Engine Godot entwickeln.
 ![Branching](https://docs.godotengine.org/en/stable/_images/dodge_preview.gif)
 
 
-[Teste das Eregebnis](https://markus1982.github.io/digicamp/game){:target="_blank"}
+[Teste das Eregebnis](https://markus1982.github.io/digicamp/games/2d){:target="_blank"}
 
 ## Vorbereitung
 
@@ -84,7 +84,7 @@ Hier noch der Original Source Code auf GitHub:
 
 Teste wieder zu Beginn das Ergebnis:
 
-[Spiel mit Hindernis](https://markus1982.github.io/digicamp/wall){:target="_blank"}
+[Spiel mit Hindernis](https://markus1982.github.io/digicamp/games/wall){:target="_blank"}
 
 Um die Wand zu ergänzen, gibt es folgende Hilfestellungen:
 * [Wandbilder](https://de.freepik.com/vektoren-kostenlos/sammlung-von-sechzehn-nahtlose-vektor-pixel-bodentexturen_959312.htm){:target="_blank"}
