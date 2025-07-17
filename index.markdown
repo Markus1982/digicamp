@@ -138,6 +138,9 @@ if not body is StaticBody2D:
 
 [Ergebnis zum 2D Spiel mit Wand](https://markus1982.github.io/digicamp/downloads/wall.zip)
 
+<details>
+  <summary>3D Tutorial</summary>
+
 # 3D Tutorial
 Nachdem wir das 2D Spiel abgeschlossen haben, können wir noch mit dem 3D Spiel starten.
 
@@ -177,3 +180,5 @@ Damit jeder Teilnehmer am Ende des Kurses ein lauffähiges Spiel zur Verfügung 
 | 7 | Den Spieler töten | [Ergebnis Schritt 7](https://markus1982.github.io/digicamp/downloads/3d-schritt-7.zip) |
 | 8 | Punktestand und Neustart | [Ergebnis Schritt 8](https://markus1982.github.io/digicamp/downloads/3d-schritt-8.zip) |
 | 9 | Die Animation des Charakters | [Ergebnis Schritt 9](https://markus1982.github.io/digicamp/downloads/3d-schritt-9.zip) |
+
+</details>
