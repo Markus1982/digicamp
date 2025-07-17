@@ -9,7 +9,7 @@ Diese Wochen werden wir ein 2D Spiel mit der Gaming Engine Godot entwickeln.
 ![Branching](https://docs.godotengine.org/en/stable/_images/dodge_preview.gif)
 
 
-[Teste das Eregebnis](https://markus1982.github.io/digicamp/games/2d){:target="_blank"}
+[Teste das Ergebnis](https://markus1982.github.io/digicamp/games/2d){:target="_blank"}
 
 ## Vorbereitung
 
@@ -144,7 +144,7 @@ Nachdem wir das 2D Spiel abgeschlossen haben, können wir noch mit dem 3D Spiel 
 
 ![Branching](https://docs.godotengine.org/en/stable/_images/squash-the-creeps-final.gif)
 
-[Teste das Eregebnis](https://markus1982.github.io/digicamp/games/3d){:target="_blank"}
+[Teste das Ergebnis](https://markus1982.github.io/digicamp/games/3d){:target="_blank"}
 
 ## Vorbereitung
 
