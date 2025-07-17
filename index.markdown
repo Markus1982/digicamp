@@ -138,3 +138,11 @@ if not body is StaticBody2D:
 
 [Ergebnis zum 2D Spiel mit Wand](https://markus1982.github.io/digicamp/downloads/wall.zip)
 
+# 3D Tutorial
+Nachdem wir das 2D Spiel abgeschlossen haben, können wir noch mit dem 3D Spiel starten.
+
+
+![Branching](https://docs.godotengine.org/en/stable/_images/squash-the-creeps-final.gif)
+
+
+[Teste das Eregebnis](https://markus1982.github.io/digicamp/games/3d){:target="_blank"}
